@@ -1,6 +1,6 @@
 ## Olá mundo! Aqui é a <strong>Karina</strong>! 👋
 
-<img src="https://img.freepik.com/fotos-premium/uma-menina-com-um-gato-no-colo-esta-jogando-em-um-computador_579873-7549.jpg" alt="Ilustração de uma menina no computador com seu gatinho" min-width="450px" max-width="450px" width="450px" align="right">
+<img src="https://img.freepik.com/fotos-premium/uma-menina-com-um-gato-no-colo-esta-jogando-em-um-computador_579873-7549.jpg" alt="Ilustração de uma menina no computador com seu gatinho" min-width="400px" max-width="400px" width="400px" align="right">
 
 Sou do Rio de Janeiro, tenho 27 anos, formada em administração e agora em transição de carreira para Desenvolvimento Front-end. Dominando HTML, CSS e JavaScript. Em breve, pretendo explorar ReactJs para componentes reutilizáveis e TypeScript para me especializar.
 
