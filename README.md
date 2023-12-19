@@ -19,4 +19,4 @@ Tenho 27 anos, sou do Rio de Janeiro e me formei em administração. Atualmente,
 <a href="https://www.instagram.com/karinanuunes/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "mailto:karinanuunes96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<img width="430em" src="https://github-readme-stats.vercel.app/api?username=karinanuunes&show_icons=true&theme=transparent"> <img width="292em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinanuunes&layout=donut">
+<img width="430em" src="https://github-readme-stats.vercel.app/api?username=karinanuunes&show_icons=true&theme=transparent"> <img width="292em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinanuunes&layout=donut&theme=transparent">
