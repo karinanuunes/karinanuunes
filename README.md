@@ -2,7 +2,7 @@
 
 <img src="https://img.freepik.com/fotos-premium/uma-menina-com-um-gato-no-colo-esta-jogando-em-um-computador_579873-7549.jpg" alt="Ilustração de uma menina no computador com seu gatinho" min-width="400px" max-width="400px" width="400px" align="right">
 
-Tenho 27 anos, sou do Rio de Janeiro e me formei em administração. Atualmente, estou migrando para Desenvolvimento Front-end, dominando HTML, CSS e JavaScript, e direcionando minha atenção para ReactJS, TypeScript e Tailwind CSS. Estou entusiasmada em enfrentar os desafios e comprometida em destacar-me nessa área dinâmica e em constante evolução. Aguarde por novos projetos!
+Tenho 27 anos, sou do Rio de Janeiro, formada em administração e atualmente cursando Análise e Desenvolvimento de Sistemas. Sou desenvolvedora Front-end, domino HTML, CSS, JavaScript, TypeScript, Tailwind CSS e ReactJS. Estou entusiasmada em enfrentar os desafios e comprometida em destacar-me nessa área dinâmica e em constante evolução. Aguarde por novos projetos!
 
 <h2 align="left">🎨 Linguagens:</h2>
 
