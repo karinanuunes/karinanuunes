@@ -2,7 +2,7 @@
 
 - :wave: Meu nome é Karina e sou Desenvolvedora Front-end!
 - :brain: Graduada em Administração, mas atualmente curso Análise e Desenvolvimento de Sistemas.
-- :computer: Domino HTML, CSS, JavaScript, TypeScript e React.
+- :computer: Domino TypeScript, Tailwind, React e Nextjs.
 - :bowing_woman: Valorizo a comunicação e o respeito em todas as interações.
 - :rocket: Sempre aprendendo, sempre avançando!
 
@@ -13,7 +13,7 @@
 
 ## :book: Linguagens e ferramentas
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,figma,vscode,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,vite,nextjs,figma,vscode,git,github&theme=dark" />
 <br />
 
 ## :envelope: Fale comigo por aqui
