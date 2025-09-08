@@ -1,7 +1,7 @@
 # Olá, mundo!
 
-- :wave: Karina - Desenvolvedora Front-end
-- :brain: Análise e Desenvolvimento de Sistemas - PUC.
+- :wave: Karina Nunes
+- :brain: Análise e Desenvolvimento de Sistemas - PUC
 - :computer: TypeScript, Tailwind, React e Nextjs.
 - :bowing_woman: Valorizo a comunicação e o respeito em todas as interações.
 - :rocket: Sempre aprendendo, sempre avançando!
@@ -19,5 +19,4 @@
 ## :envelope: Fale comigo por aqui
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karinanuunes/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/karinanuunes/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karinanuunes96@gmail.com)
